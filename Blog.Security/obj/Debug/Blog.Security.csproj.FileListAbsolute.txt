@@ -1,0 +1,5 @@
+C:\Users\Midas\Desktop\G09_Blog\Blog.Security\bin\Debug\Blog.Security.dll
+C:\Users\Midas\Desktop\G09_Blog\Blog.Security\bin\Debug\Blog.Security.pdb
+C:\Users\Midas\Desktop\G09_Blog\Blog.Security\obj\Debug\Blog.Security.csproj.CoreCompileInputs.cache
+C:\Users\Midas\Desktop\G09_Blog\Blog.Security\obj\Debug\Blog.Security.dll
+C:\Users\Midas\Desktop\G09_Blog\Blog.Security\obj\Debug\Blog.Security.pdb

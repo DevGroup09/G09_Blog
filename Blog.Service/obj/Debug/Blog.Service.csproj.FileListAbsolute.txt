@@ -1,0 +1,6 @@
+C:\Users\Midas\Desktop\G09_Blog\Blog.Service\bin\Debug\Blog.Service.dll
+C:\Users\Midas\Desktop\G09_Blog\Blog.Service\bin\Debug\Blog.Service.pdb
+C:\Users\Midas\Desktop\G09_Blog\Blog.Service\obj\Debug\Blog.Service.csprojAssemblyReference.cache
+C:\Users\Midas\Desktop\G09_Blog\Blog.Service\obj\Debug\Blog.Service.csproj.CoreCompileInputs.cache
+C:\Users\Midas\Desktop\G09_Blog\Blog.Service\obj\Debug\Blog.Service.dll
+C:\Users\Midas\Desktop\G09_Blog\Blog.Service\obj\Debug\Blog.Service.pdb

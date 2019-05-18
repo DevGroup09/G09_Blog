@@ -1,0 +1,6 @@
+C:\Users\Midas\Desktop\G09_Blog\Blog.Domain\bin\Debug\Blog.Domain.dll
+C:\Users\Midas\Desktop\G09_Blog\Blog.Domain\bin\Debug\Blog.Domain.pdb
+C:\Users\Midas\Desktop\G09_Blog\Blog.Domain\obj\Debug\Blog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Midas\Desktop\G09_Blog\Blog.Domain\obj\Debug\Blog.Domain.dll
+C:\Users\Midas\Desktop\G09_Blog\Blog.Domain\obj\Debug\Blog.Domain.pdb
+C:\Users\Midas\Desktop\G09_Blog\Blog.Domain\obj\Debug\Blog.Domain.csprojAssemblyReference.cache

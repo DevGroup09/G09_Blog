@@ -1,0 +1,17 @@
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\Test.exe.config
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\Test.exe
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\Test.pdb
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\Blog.Domain.dll
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\Blog.Repository.dll
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\EntityFramework.dll
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\Blog.Domain.pdb
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\Blog.Repository.pdb
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\Blog.Repository.dll.config
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\EntityFramework.xml
+C:\Users\Midas\Desktop\G09_Blog\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Midas\Desktop\G09_Blog\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Midas\Desktop\G09_Blog\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Midas\Desktop\G09_Blog\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Midas\Desktop\G09_Blog\Test\obj\Debug\Test.exe
+C:\Users\Midas\Desktop\G09_Blog\Test\obj\Debug\Test.pdb
